@@ -6,7 +6,7 @@ export const books = [
     year: 2007,
     isbn10: "8401352839",
     isbn13: "9788401352836",
-    cover: "https://ia800100.us.archive.org/view_archive.php?archive=/5/items/l_covers_0012/l_covers_0012_33.zip&file=0012339516-L.jpg",
+    cover: "https://covers.openlibrary.org/b/id/7386674-L.jpg",
     synopsis: "Kvothe, un joven con talento y un pasado misterioso, relata su vida llena de aventuras.",
     reviews: "Obra maestra de la fantasía moderna. - The New York Times",
     category: "Fantasía",
