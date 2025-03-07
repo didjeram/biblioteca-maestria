@@ -1,0 +1,30 @@
+export const books = [
+  {
+    id: 1,
+    title: "El nombre del viento",
+    author: "Patrick Rothfuss",
+    year: 2007,
+    isbn10: "8401352839",
+    isbn13: "9788401352836",
+    cover: "https://example.com/cover1.jpg",
+    synopsis: "Kvothe, un joven con talento y un pasado misterioso, relata su vida llena de aventuras.",
+    reviews: "Obra maestra de la fantasía moderna. - The New York Times",
+    category: "Fantasía",
+    language: "Español",
+    available: true,
+  },
+  {
+    id: 2,
+    title: "Cien años de soledad",
+    author: "Gabriel García Márquez",
+    year: 1967,
+    isbn10: "030735044X",
+    isbn13: "9780307350445",
+    cover: "https://example.com/cover2.jpg",
+    synopsis: "La historia de la familia Buendía en el pueblo ficticio de Macondo.",
+    reviews: "Un clásico de la literatura mundial. - El País",
+    category: "Realismo mágico",
+    language: "Español",
+    available: false,
+  }
+];
